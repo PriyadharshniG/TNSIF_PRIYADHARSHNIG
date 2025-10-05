@@ -1,5 +1,5 @@
 //Program to define base class Employee
-package inheritance.multilevelinheritance;
+package com.tnsif.dayfour.inheritance.multilevelinheritance;
 
 import java.util.Date;
 
