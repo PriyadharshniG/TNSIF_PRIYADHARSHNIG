@@ -1,5 +1,5 @@
 //Program to demonstrate Hierarchical Inheritance 
-package inheritance.hierarchicalinheritance;
+package com.tnsif.dayfour.inheritance.hierarchicalinheritance;
 
 public class HierarchicalInhDemo {
 
