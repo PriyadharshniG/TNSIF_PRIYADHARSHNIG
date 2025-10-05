@@ -1,5 +1,5 @@
 //Program to demonstrate Single Inheritance 
-package inheritance.singleinheritance;
+package com.tnsif.dayfour.inheritance.singleinheritance;
 
 //creating child class
 public class Student extends Citizen {
