@@ -1,4 +1,4 @@
-package com.tnsif.dayfour.ecapsulation;
+package com.tnsif.dayfour.encapsulation;
 
 public class EncapsulationDemo {
 
