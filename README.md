@@ -8,8 +8,6 @@ It includes well-structured examples of core Object-Oriented Programming (OOP) c
 - Abstraction (abstract classes, methods, runtime polymorphism)
 - Inheritance (single, multilevel, hierarchical)
 - Polymorphism (method overloading and overriding)
-- Interfaces
-- Exception Handling
 - Basic Programs and Hands-on Exercises
 
 ##  Purpose
